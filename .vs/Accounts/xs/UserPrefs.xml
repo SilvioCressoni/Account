@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BC17F1D1-5528-4DBE-A8EF-A8344F26F75E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Accounts/Entities/BusinessAccount.cs">
+    <Files>
+      <File FileName="Accounts/Program.cs" Line="1" Column="1" />
+      <File FileName="Accounts/Account.cs" Line="11" Column="81" />
+      <File FileName="Accounts/Entities/SavingAccount.cs" Line="11" Column="43" />
+      <File FileName="Accounts/Entities/BusinessAccount.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Accounts" expanded="True">
+            <Node name="Accounts" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="BusinessAccount.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Accounts FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

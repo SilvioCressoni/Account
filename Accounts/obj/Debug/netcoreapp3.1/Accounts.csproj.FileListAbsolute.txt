@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/bin/Debug/netcoreapp3.1/Accounts.deps.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/bin/Debug/netcoreapp3.1/Accounts.runtimeconfig.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/bin/Debug/netcoreapp3.1/Accounts.runtimeconfig.dev.json
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/bin/Debug/netcoreapp3.1/Accounts.dll
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/bin/Debug/netcoreapp3.1/Accounts.pdb
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/obj/Debug/netcoreapp3.1/Accounts.csprojAssemblyReference.cache
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/obj/Debug/netcoreapp3.1/Accounts.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/obj/Debug/netcoreapp3.1/Accounts.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/obj/Debug/netcoreapp3.1/Accounts.dll
+/Users/silviocressoni/Documents/Studyies/DEV/C#/Projects/Accounts/Accounts/obj/Debug/netcoreapp3.1/Accounts.pdb
